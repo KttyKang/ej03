@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Rafael Nuñez
-=======
 Luis Lozano Lara
->>>>>>> LuisLozano
+Guillermo Chin
