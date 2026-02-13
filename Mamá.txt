@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Alma Rosario
+=======
+Janett Contreras Marrufo
+>>>>>>> LuisLozano

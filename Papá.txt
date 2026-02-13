@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Rafael Nuñez
+=======
+Luis Lozano Lara
+>>>>>>> LuisLozano
